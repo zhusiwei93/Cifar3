@@ -1,0 +1,531 @@
+Ds - loss: 1.0283 - acc: 0.4592
+Epoch 2/2
+68s - loss: 0.8027 - acc: 0.6554
+Saved model to disk: -2
+Epoch 1/2
+68s - loss: 0.6741 - acc: 0.7252
+Epoch 2/2
+68s - loss: 0.6082 - acc: 0.7597
+Saved model to disk: -4
+Epoch 1/2
+68s - loss: 0.5545 - acc: 0.7829
+Epoch 2/2
+68s - loss: 0.5213 - acc: 0.7970
+Saved model to disk: -6
+Epoch 1/2
+68s - loss: 0.4971 - acc: 0.8084
+Epoch 2/2
+68s - loss: 0.4792 - acc: 0.8135
+Saved model to disk: -8
+Epoch 1/2
+69s - loss: 0.4542 - acc: 0.8264
+Epoch 2/2
+68s - loss: 0.4486 - acc: 0.8293
+Saved model to disk: -10
+Epoch 1/2
+69s - loss: 0.4361 - acc: 0.8309
+Epoch 2/2
+68s - loss: 0.4164 - acc: 0.8427
+Saved model to disk: -12
+Epoch 1/2
+69s - loss: 0.4202 - acc: 0.8411
+Epoch 2/2
+69s - loss: 0.3995 - acc: 0.8492
+Saved model to disk: -14
+Epoch 1/2
+69s - loss: 0.3937 - acc: 0.8493
+Epoch 2/2
+69s - loss: 0.3813 - acc: 0.8594
+Saved model to disk: -16
+Epoch 1/2
+69s - loss: 0.3741 - acc: 0.8627
+Epoch 2/2
+69s - loss: 0.3709 - acc: 0.8575
+Saved model to disk: -18
+Epoch 1/2
+69s - loss: 0.3553 - acc: 0.8688
+Epoch 2/2
+69s - loss: 0.3466 - acc: 0.8741
+Saved model to disk: -20
+Epoch 1/2
+69s - loss: 0.3421 - acc: 0.8744
+Epoch 2/2
+69s - loss: 0.3387 - acc: 0.8731
+Saved model to disk: -22
+Epoch 1/2
+69s - loss: 0.3318 - acc: 0.8784
+Epoch 2/2
+69s - loss: 0.3254 - acc: 0.8799
+Saved model to disk: -24
+Epoch 1/2
+69s - loss: 0.3137 - acc: 0.8831
+Epoch 2/2
+69s - loss: 0.3102 - acc: 0.8839
+Saved model to disk: -26
+Epoch 1/2
+69s - loss: 0.3142 - acc: 0.8826
+Epoch 2/2
+69s - loss: 0.3076 - acc: 0.8859
+Saved model to disk: -28
+Epoch 1/2
+69s - loss: 0.3018 - acc: 0.8889
+Epoch 2/2
+69s - loss: 0.3008 - acc: 0.8887
+Saved model to disk: -30
+Epoch 1/2
+69s - loss: 0.2881 - acc: 0.8927
+Epoch 2/2
+69s - loss: 0.2786 - acc: 0.8988
+Saved model to disk: -32
+Epoch 1/2
+69s - loss: 0.2790 - acc: 0.8978
+Epoch 2/2
+69s - loss: 0.2697 - acc: 0.9006
+Saved model to disk: -34
+Epoch 1/2
+69s - loss: 0.2713 - acc: 0.9011
+Epoch 2/2
+69s - loss: 0.2700 - acc: 0.9027
+Saved model to disk: -36
+Epoch 1/2
+69s - loss: 0.2672 - acc: 0.9039
+Epoch 2/2
+69s - loss: 0.2524 - acc: 0.9094
+Saved model to disk: -38
+Epoch 1/2
+69s - loss: 0.2552 - acc: 0.9068
+Epoch 2/2
+69s - loss: 0.2629 - acc: 0.9056
+Saved model to disk: -40
+Epoch 1/2
+69s - loss: 0.2539 - acc: 0.9075
+Epoch 2/2
+69s - loss: 0.2464 - acc: 0.9107
+Saved model to disk: -42
+Epoch 1/2
+69s - loss: 0.2444 - acc: 0.9116
+Epoch 2/2
+69s - loss: 0.2426 - acc: 0.9117
+Saved model to disk: -44
+Epoch 1/2
+69s - loss: 0.2382 - acc: 0.9131
+Epoch 2/2
+69s - loss: 0.2362 - acc: 0.9140
+Saved model to disk: -46
+Epoch 1/2
+69s - loss: 0.2331 - acc: 0.9145
+Epoch 2/2
+69s - loss: 0.2318 - acc: 0.9171
+Saved model to disk: -48
+Epoch 1/2
+69s - loss: 0.2330 - acc: 0.9174
+Epoch 2/2
+69s - loss: 0.2325 - acc: 0.9169
+Saved model to disk: -50
+Epoch 1/2
+69s - loss: 0.2243 - acc: 0.9196
+Epoch 2/2
+69s - loss: 0.2188 - acc: 0.9217
+Saved model to disk: -52
+Epoch 1/2
+69s - loss: 0.2241 - acc: 0.9174
+Epoch 2/2
+69s - loss: 0.2188 - acc: 0.9222
+Saved model to disk: -54
+Epoch 1/2
+69s - loss: 0.2200 - acc: 0.9184
+Epoch 2/2
+69s - loss: 0.2122 - acc: 0.9230
+Saved model to disk: -56
+Epoch 1/2
+69s - loss: 0.2125 - acc: 0.9240
+Epoch 2/2
+69s - loss: 0.2160 - acc: 0.9200
+Saved model to disk: -58
+Epoch 1/2
+69s - loss: 0.2016 - acc: 0.9267
+Epoch 2/2
+69s - loss: 0.2028 - acc: 0.9266
+Saved model to disk: -60
+Epoch 1/2
+69s - loss: 0.2066 - acc: 0.9262
+Epoch 2/2
+69s - loss: 0.2100 - acc: 0.9252
+Saved model to disk: -62
+Epoch 1/2
+69s - loss: 0.2036 - acc: 0.9249
+Epoch 2/2
+69s - loss: 0.2013 - acc: 0.9274
+Saved model to disk: -64
+Epoch 1/2
+69s - loss: 0.1990 - acc: 0.9295
+Epoch 2/2
+69s - loss: 0.1958 - acc: 0.9299
+Saved model to disk: -66
+Epoch 1/2
+69s - loss: 0.1918 - acc: 0.9312
+Epoch 2/2
+69s - loss: 0.1933 - acc: 0.9299
+Saved model to disk: -68
+Epoch 1/2
+69s - loss: 0.1914 - acc: 0.9320
+Epoch 2/2
+69s - loss: 0.1873 - acc: 0.9321
+Saved model to disk: -70
+Epoch 1/2
+69s - loss: 0.1916 - acc: 0.9325
+Epoch 2/2
+69s - loss: 0.1883 - acc: 0.9348
+Saved model to disk: -72
+Epoch 1/2
+69s - loss: 0.1862 - acc: 0.9320
+Epoch 2/2
+69s - loss: 0.1817 - acc: 0.9366
+Saved model to disk: -74
+Epoch 1/2
+69s - loss: 0.1817 - acc: 0.9338
+Epoch 2/2
+69s - loss: 0.1827 - acc: 0.9349
+Saved model to disk: -76
+Epoch 1/2
+69s - loss: 0.1828 - acc: 0.9341
+Epoch 2/2
+69s - loss: 0.1822 - acc: 0.9345
+Saved model to disk: -78
+Epoch 1/2
+69s - loss: 0.1795 - acc: 0.9343
+Epoch 2/2
+69s - loss: 0.1811 - acc: 0.9362
+Saved model to disk: -80
+Epoch 1/2
+69s - loss: 0.1815 - acc: 0.9360
+Epoch 2/2
+69s - loss: 0.1780 - acc: 0.9359
+Saved model to disk: -82
+Epoch 1/2
+69s - loss: 0.1705 - acc: 0.9373
+Epoch 2/2
+69s - loss: 0.1725 - acc: 0.9374
+Saved model to disk: -84
+Epoch 1/2
+69s - loss: 0.1716 - acc: 0.9394
+Epoch 2/2
+69s - loss: 0.1695 - acc: 0.9404
+Saved model to disk: -86
+Epoch 1/2
+69s - loss: 0.1670 - acc: 0.9403
+Epoch 2/2
+69s - loss: 0.1713 - acc: 0.9387
+Saved model to disk: -88
+Epoch 1/2
+69s - loss: 0.1646 - acc: 0.9425
+Epoch 2/2
+69s - loss: 0.1654 - acc: 0.9401
+Saved model to disk: -90
+Epoch 1/2
+70s - loss: 0.1691 - acc: 0.9391
+Epoch 2/2
+69s - loss: 0.1656 - acc: 0.9409
+Saved model to disk: -92
+Epoch 1/2
+70s - loss: 0.1680 - acc: 0.9400
+Epoch 2/2
+69s - loss: 0.1579 - acc: 0.9439
+Saved model to disk: -94
+Epoch 1/2
+70s - loss: 0.1580 - acc: 0.9451
+Epoch 2/2
+69s - loss: 0.1620 - acc: 0.9420
+Saved model to disk: -96
+Epoch 1/2
+70s - loss: 0.1617 - acc: 0.9422
+Epoch 2/2
+69s - loss: 0.1579 - acc: 0.9455
+Saved model to disk: -98
+Epoch 1/2
+70s - loss: 0.1572 - acc: 0.9451
+Epoch 2/2
+69s - loss: 0.1647 - acc: 0.9436
+Saved model to disk: -100
+Epoch 1/2
+70s - loss: 0.1570 - acc: 0.9450
+Epoch 2/2
+69s - loss: 0.1516 - acc: 0.9449
+Saved model to disk: -102
+Epoch 1/2
+70s - loss: 0.1508 - acc: 0.9450
+Epoch 2/2
+69s - loss: 0.1503 - acc: 0.9464
+Saved model to disk: -104
+Epoch 1/2
+70s - loss: 0.1603 - acc: 0.9462
+Epoch 2/2
+69s - loss: 0.1585 - acc: 0.9460
+Saved model to disk: -106
+Epoch 1/2
+70s - loss: 0.1540 - acc: 0.9471
+Epoch 2/2
+69s - loss: 0.1533 - acc: 0.9469
+Saved model to disk: -108
+Epoch 1/2
+70s - loss: 0.1548 - acc: 0.9453
+Epoch 2/2
+69s - loss: 0.1532 - acc: 0.9475
+Saved model to disk: -110
+Epoch 1/2
+70s - loss: 0.1416 - acc: 0.9494
+Epoch 2/2
+69s - loss: 0.1516 - acc: 0.9476
+Saved model to disk: -112
+Epoch 1/2
+70s - loss: 0.1480 - acc: 0.9477
+Epoch 2/2
+69s - loss: 0.1521 - acc: 0.9469
+Saved model to disk: -114
+Epoch 1/2
+70s - loss: 0.1481 - acc: 0.9471
+Epoch 2/2
+69s - loss: 0.1439 - acc: 0.9492
+Saved model to disk: -116
+Epoch 1/2
+70s - loss: 0.1391 - acc: 0.9517
+Epoch 2/2
+69s - loss: 0.1374 - acc: 0.9516
+Saved model to disk: -118
+Epoch 1/2
+70s - loss: 0.1445 - acc: 0.9497
+Epoch 2/2
+69s - loss: 0.1396 - acc: 0.9491
+Saved model to disk: -120
+Epoch 1/2
+70s - loss: 0.1447 - acc: 0.9498
+Epoch 2/2
+69s - loss: 0.1351 - acc: 0.9513
+Saved model to disk: -122
+Epoch 1/2
+70s - loss: 0.1422 - acc: 0.9514
+Epoch 2/2
+69s - loss: 0.1379 - acc: 0.9505
+Saved model to disk: -124
+Epoch 1/2
+70s - loss: 0.1416 - acc: 0.9500
+Epoch 2/2
+69s - loss: 0.1458 - acc: 0.9491
+Saved model to disk: -126
+Epoch 1/2
+70s - loss: 0.1388 - acc: 0.9515
+Epoch 2/2
+70s - loss: 0.1443 - acc: 0.9509
+Saved model to disk: -128
+Epoch 1/2
+70s - loss: 0.1356 - acc: 0.9530
+Epoch 2/2
+70s - loss: 0.1380 - acc: 0.9506
+Saved model to disk: -130
+Epoch 1/2
+70s - loss: 0.1404 - acc: 0.9514
+Epoch 2/2
+69s - loss: 0.1379 - acc: 0.9530
+Saved model to disk: -132
+Epoch 1/2
+70s - loss: 0.1340 - acc: 0.9521
+Epoch 2/2
+69s - loss: 0.1379 - acc: 0.9521
+Saved model to disk: -134
+Epoch 1/2
+70s - loss: 0.1351 - acc: 0.9513
+Epoch 2/2
+69s - loss: 0.1330 - acc: 0.9554
+Saved model to disk: -136
+Epoch 1/2
+70s - loss: 0.1413 - acc: 0.9499
+Epoch 2/2
+69s - loss: 0.1385 - acc: 0.9510
+Saved model to disk: -138
+Epoch 1/2
+70s - loss: 0.1368 - acc: 0.9532
+Epoch 2/2
+69s - loss: 0.1282 - acc: 0.9557
+Saved model to disk: -140
+Epoch 1/2
+70s - loss: 0.1351 - acc: 0.9539
+Epoch 2/2
+69s - loss: 0.1328 - acc: 0.9551
+Saved model to disk: -142
+Epoch 1/2
+70s - loss: 0.1358 - acc: 0.9525
+Epoch 2/2
+69s - loss: 0.1284 - acc: 0.9545
+Saved model to disk: -144
+Epoch 1/2
+70s - loss: 0.1334 - acc: 0.9559
+Epoch 2/2
+69s - loss: 0.1277 - acc: 0.9563
+Saved model to disk: -146
+Epoch 1/2
+70s - loss: 0.1261 - acc: 0.9564
+Epoch 2/2
+69s - loss: 0.1293 - acc: 0.9550
+Saved model to disk: -148
+Epoch 1/2
+70s - loss: 0.1316 - acc: 0.9525
+Epoch 2/2
+69s - loss: 0.1297 - acc: 0.9552
+Saved model to disk: -150
+Epoch 1/2
+70s - loss: 0.1302 - acc: 0.9552
+Epoch 2/2
+69s - loss: 0.1213 - acc: 0.9588
+Saved model to disk: -152
+Epoch 1/2
+70s - loss: 0.1197 - acc: 0.9586
+Epoch 2/2
+69s - loss: 0.1201 - acc: 0.9592
+Saved model to disk: -154
+Epoch 1/2
+70s - loss: 0.1273 - acc: 0.9548
+Epoch 2/2
+69s - loss: 0.1326 - acc: 0.9540
+Saved model to disk: -156
+Epoch 1/2
+70s - loss: 0.1249 - acc: 0.9562
+Epoch 2/2
+70s - loss: 0.1255 - acc: 0.9547
+Saved model to disk: -158
+Epoch 1/2
+70s - loss: 0.1218 - acc: 0.9583
+Epoch 2/2
+69s - loss: 0.1226 - acc: 0.9576
+Saved model to disk: -160
+Epoch 1/2
+70s - loss: 0.1236 - acc: 0.9560
+Epoch 2/2
+69s - loss: 0.1179 - acc: 0.9611
+Saved model to disk: -162
+Epoch 1/2
+70s - loss: 0.1193 - acc: 0.9595
+Epoch 2/2
+70s - loss: 0.1269 - acc: 0.9567
+Saved model to disk: -164
+Epoch 1/2
+70s - loss: 0.1256 - acc: 0.9540
+Epoch 2/2
+69s - loss: 0.1241 - acc: 0.9567
+Saved model to disk: -166
+Epoch 1/2
+70s - loss: 0.1223 - acc: 0.9577
+Epoch 2/2
+70s - loss: 0.1227 - acc: 0.9575
+Saved model to disk: -168
+Epoch 1/2
+70s - loss: 0.1236 - acc: 0.9586
+Epoch 2/2
+69s - loss: 0.1201 - acc: 0.9590
+Saved model to disk: -170
+Epoch 1/2
+70s - loss: 0.1167 - acc: 0.9575
+Epoch 2/2
+70s - loss: 0.1225 - acc: 0.9581
+Saved model to disk: -172
+Epoch 1/2
+70s - loss: 0.1207 - acc: 0.9582
+Epoch 2/2
+70s - loss: 0.1183 - acc: 0.9578
+Saved model to disk: -174
+Epoch 1/2
+70s - loss: 0.1206 - acc: 0.9567
+Epoch 2/2
+70s - loss: 0.1132 - acc: 0.9566
+Saved model to disk: -176
+Epoch 1/2
+70s - loss: 0.1140 - acc: 0.9603
+Epoch 2/2
+75s - loss: 0.1201 - acc: 0.9587
+Saved model to disk: -178
+Epoch 1/2
+70s - loss: 0.1113 - acc: 0.9613
+Epoch 2/2
+70s - loss: 0.1166 - acc: 0.9586
+Saved model to disk: -180
+Epoch 1/2
+70s - loss: 0.1212 - acc: 0.9588
+Epoch 2/2
+70s - loss: 0.1152 - acc: 0.9598
+Saved model to disk: -182
+Epoch 1/2
+70s - loss: 0.1127 - acc: 0.9615
+Epoch 2/2
+70s - loss: 0.1161 - acc: 0.9593
+Saved model to disk: -184
+Epoch 1/2
+70s - loss: 0.1135 - acc: 0.9599
+Epoch 2/2
+70s - loss: 0.1122 - acc: 0.9615
+Saved model to disk: -186
+Epoch 1/2
+70s - loss: 0.1144 - acc: 0.9600
+Epoch 2/2
+70s - loss: 0.1181 - acc: 0.9593
+Saved model to disk: -188
+Epoch 1/2
+70s - loss: 0.1119 - acc: 0.9609
+Epoch 2/2
+70s - loss: 0.1108 - acc: 0.9624
+Saved model to disk: -190
+Epoch 1/2
+70s - loss: 0.1098 - acc: 0.9619
+Epoch 2/2
+70s - loss: 0.1116 - acc: 0.9603
+Saved model to disk: -192
+Epoch 1/2
+70s - loss: 0.1116 - acc: 0.9607
+Epoch 2/2
+70s - loss: 0.1155 - acc: 0.9589
+Saved model to disk: -194
+Epoch 1/2
+70s - loss: 0.1091 - acc: 0.9624
+Epoch 2/2
+70s - loss: 0.1093 - acc: 0.9617
+Saved model to disk: -196
+Epoch 1/2
+70s - loss: 0.1016 - acc: 0.9645
+Epoch 2/2
+70s - loss: 0.1131 - acc: 0.9612
+Saved model to disk: -198
+Epoch 1/2
+70s - loss: 0.1127 - acc: 0.9601
+Epoch 2/2
+70s - loss: 0.1102 - acc: 0.9635
+Saved model to disk: -200
+Epoch 1/2
+70s - loss: 0.1124 - acc: 0.9622
+Epoch 2/2
+70s - loss: 0.1100 - acc: 0.9614
+Saved model to disk: -202
+Epoch 1/2
+70s - loss: 0.1097 - acc: 0.9630
+Epoch 2/2
+70s - loss: 0.1097 - acc: 0.9620
+Saved model to disk: -204
+Epoch 1/2
+70s - loss: 0.1107 - acc: 0.9609
+Epoch 2/2
+70s - loss: 0.1125 - acc: 0.9604
+Saved model to disk: -206
+Epoch 1/2
+70s - loss: 0.1063 - acc: 0.9640
+Epoch 2/2
+70s - loss: 0.1119 - acc: 0.9625
+Saved model to disk: -208
+Epoch 1/2
+70s - loss: 0.1088 - acc: 0.9621
+Epoch 2/2
+70s - loss: 0.1091 - acc: 0.9626
+Saved model to disk: -210
+Epoch 1/2
+70s - loss: 0.1140 - acc: 0.9614
+Epoch 2/2
+70s - loss: 0.1094 - acc: 0.9624
+Saved model to disk: -212
+Saved model to disk:
+Model took 14815.56 seconds to train

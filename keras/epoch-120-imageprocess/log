@@ -1,0 +1,5 @@
+('Test loss:', 0.15045107008113215)
+('Test accuracy:', 0.95916666666666661)
+Saved model to disk
+Model took 29164.09 seconds to train
+Accuracy on test data is: 95.92

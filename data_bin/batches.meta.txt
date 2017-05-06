@@ -1,0 +1,4 @@
+label names£º
+0£º'automobile'
+1£º'cat'
+2£º'ship'
